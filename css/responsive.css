@@ -251,6 +251,7 @@
   .address-block-one .icon {width: 50px; height: 50px; padding: 15px;}
   .address-block-one .title {font-size: 18px; padding: 15px 0 0;}
   .address-block-one p {font-size: 15px;}
+  .marketing {margin-bottom:20px;}
 }
 /*(max-width: 1199px)*/
 
@@ -285,7 +286,7 @@
   .blog-meta-two .blog-title {font-size: 24px;}
   .inner-banner-one {padding-bottom: 80px;}
   .text-feature-three .video-post {height: 450px;}
-  
+  .marketing {margin-bottom:20px;}
 }
 /*(min-width: 992px) and (max-width: 1199px)*/
 
@@ -357,7 +358,8 @@
   .feedback-section-two .shape_01,.fancy-banner-five .bg-wrapper .shape_01,
   .hero-banner-seven .screen01,.hero-banner-seven .screen02,
   .card-style-five.arrow-style:before, .card-style-five.arrow-style:after {display: none !important;}
-  
+  .marketing {margin-bottom:20px;}
+  .order-lg-last{margin-top: 20px;}
 }
 /*(max-width: 991px)*/
 /*Grid md Start*/
@@ -369,7 +371,8 @@
     border: none;
     z-index: 0;
   }
-
+  .marketing {margin-bottom:20px;}
+  
 }
 
 
@@ -384,7 +387,7 @@
   .grid-3column .grid-sizer, .grid-3column .isotop-item {width: 50%;}
   .feedback-section-five .slider-arrows {top:30px;}
   .job-list-one .split-box1 .title {margin-bottom: 0;}
-  
+  .marketing {margin-bottom:20px;}
 }
 /*(min-width: 768px) and (max-width: 991px)*/
 
@@ -417,6 +420,7 @@
   .job-list-one.style-two .logo {margin-bottom: 15px;}
   .candidate-profile-card.grid-layout {padding: 25px 15px;}
   .candidate-profile-card.list-layout .save-btn {position: absolute; top:25px; right: 15px; margin: 0;}
+  .marketing {margin-bottom:20px;}
 }
 /*(max-width: 767px)*/
 
@@ -429,7 +433,7 @@
   .text-feature-two .big-circle {width: 370px; height: 370px;}
   .theme-main-menu .header-search {width: 100%; margin: 0 15px;}
   .grid-3column .grid-sizer, .grid-3column .isotop-item {width: 50%;}
-
+  .marketing {margin-bottom:20px;}
 }
 /*(min-width: 576px) and (max-width: 767px)*/
 
@@ -465,5 +469,10 @@
   .btn-eleven {height: 50px;}
   .hero-banner-four .shapes {display: none !important;}
   .blog-details-page .blog-comment-area .comment .comment-text .reply-btn {position: static;}
+  .marketing {margin-bottom:70px;}
+  .analisis {padding-top: 30px;padding-bottom: 30px;}
+  .manfaat{margin-bottom: 50px;}
+  .order-lg-last{margin-top: 20px;}
+  .fancy-banner-three{padding-top: 20px;}
 }
 /*(max-width: 575px)*/
