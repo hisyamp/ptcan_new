@@ -1,0 +1,100 @@
+{
+    "index":{
+        "navbar":{
+            "home":"Beranda",
+            "product":"Produk",
+            "order":"Pesan",
+            "aboutus":"Tentang Kami"
+        },
+        "hero":{
+            "title":"Cangkang Sawit",
+            "body1":"Tempat jual beli cangkang sawit nomor satu di Indonesia",
+            "body2":"Amanah, Terpercaya, dengan kualitas cangkang sawit terbaik, harga bersaing",
+            "btn": "Order"
+        },
+        "whatis":{
+            "title":"Apa Itu <br> Cangkang Sawit ?",
+            "subtitle":"Cangkangsawit",
+            "body":"adalah sisa pecahan cangkang setelah biji sawit dikeluarkan dan dihancurkan di palm oil mill. Cangkang sawit merupakan bahan yang berserat dan mudah dalam pengolahannya. dibandingkan dengan industri residu biomassa lainnya, cangkang sawit adalah bahan bakar yang berkualitas baik dengan ukuran yang seragam, mudah diolah dan proses pembakarannya cepat karena tingkat kelembapan yang rendah."
+            },
+            "whatfor":{
+                "title":"Kegunaan <br> Cangkang Sawit",
+                "subtitle":"Cangkangsawit",
+                "body":"Cangkang sawit bisa digunakan sebagai briket arang dikarenakan ramah lingkungan. Cangkang sawit memiliki kadar abu yang minim, yakni sebesar 2-3% dan tidak mengeluarkan bau. Dilain sisi, Cangkang sawit juga tahan lama ketika digunakan dalam proses pembakaran. Selain itu cangkang sawit juga bisa digunakan sebagai campuran pangan ternak dan campuran bahan pengeras jalan"
+        },
+        "whyus":{
+            "title": "Mengapa Kami ?",
+            "subtitle": "Konsistensi Kualitas & <br> Kuantitas Terbaik",
+            "body1":"Pengalaman telah membawa kami bekerja sama dengan sebagian besar Pabrik Kelapa Sawit yang ada di Kalimantan Tengah, Kalimantan Selatan hingga Kalimantan Barat. Pengetahuan kami tentang profile Pabrik Kelapa Sawit dengan berbagai jenis – jenis cangkang kelapa sawit yang dihasilkan akan sangat membantu kami sehingga, membuat kami percaya diri bahwa kami memiliki kemampuan untuk dapat memenuhi kebutuhan serta ekspektasi mitra pengguna biomassa kami baik secara kualitas maupun kuantitas.",
+            "body2":"Tabel di atas merupakan hasil LAB (Sucofindo) dari Limbah Cangkang Kelapa Sawit yang biasa kami hadirkan, dengan kesimpulan sebagai berikut; - Total Moisture / Kadar Air Dengan mengandung kadar air yang lembab (moisture in Analysis) sebesar 17.82% (Air Dried Basis) setidaknya menjadikan cangkang Sawit sangat cocok untuk dijadikan bahan bakar. Sebab, pada dasarnya semakin berkurangnya intensitas kadar air dalam sesuatu, maka menjadikannya mudah untuk terbakar. Selain itu, kondisi kadar air ini pula turut menentukan kualitas (daya tahan dan kekuatan). - Ash Content / Kadar Abu Memiliki ash content (kadar abu) yang rendah, yakni kurang lebih sekitar 2-3% menjadikannya sangat cocok untuk menggantikan batu bara. Dengan menggunakan cangkang Sawit sebagai bahan bakar arang, setidaknya sangat membantu dalam melakukan pelestarian sumber daya alam yang terbatas. Selain itu, dengan menggunakan cangkang kelapa Sawit ini lebih memberdayakan stok sumber daya yang mudah diperbaharui. - Volatile Matter / Kadar Penguapan Intensitas kadar penguapan yang lumayan tinggi, (volatile matter) yakni berkisar 69-80%. Apabila demikian, hal ini berarti dengan menggunakan cangkang Sawit akan jauh lebih ramah terhadap lingkungan sekitar. Sebab cangkang Sawit lebih relatif rendah mengandung zat sulphur karbon, sehingga mengurangi pencemaran polusi udara sebagaimana tujuan awal penggunaan energi biomassa ini dilakukan. Berbeda halnya ketika suatu industri menggunakan batu bara maupun bahan bakar sumber daya alam yang akan membuat polusi yang tinggi"
+        },
+        "letsorder":{
+            "title":"Pesan Sekarang",
+            "btn":"Pesan"
+        }
+    },
+    "about":{
+        "navbar":{
+            "home":"Beranda",
+            "aboutus":"Tentang Kami",
+            "license":"Lisensi",
+            "history":"Sejarah",
+            "order":"Pesan"
+        },
+        "aboutCompany":{
+            "title":"Tentang <br> Perusahaan",
+            "body1":"PT. CAKRAWALA ADIDAYA NUSANTARA (PT. CAN) merupakan perusahan yang bergerak pada bidang usaha perdagangan (jual- beli) limbah kelapa sawit diantaranya cangkang kelapa sawit (Palm Kernell Shell), fiber dan produk limbah lainnya. Khusus untuk cangkang kelapa sawit (Palm Kernell Shell) hingga saat ini PT. CAN tercatat telah melakukan kontrak pembelian dan bermitra bersama kurang lebih 20 perusahan kelapa sawit (PKS) berbeda dengan kapasitas pembelian s/d 2.000 mt di beberapa PKS mitra.",
+            "body2":"PT. CAN bersama CV. Putra Mahodenk Kotawaringin (CV. PMK) juga telah menjadi mitra tetap dari PT. Garuda Biomass Indonesia (PT. GBI) selaku supplier sekaligus eksportir cangkang kelapa sawit (Palm Kernell Shell) yang memiliki hubungan langsung dengan pengguna akhir (end user) dibeberapa negara tujuan seperti Thailand, Jepang dan Taiwan. Sehingga, jaminan mengenai kepastian kualitas bukan lagi menjadi masalah yang dapat mengganggu aktivitas usaha yang dijalankan oleh PT.CAN.",
+            "body3": "Selain memiliki usaha yang bergerak dibidang jual-beli produk limbah kelapa sawit PT. CAN bersama CV. PMK juga memiliki usaha yang bergerak pada bidang jasa angkutan (transportir) total terdapat 18 unit angkutan dengan jenis Dump Truck."
+        },
+        "visiMisi":{
+            "visi": {
+                "title":"Visi",
+                "body":"Menjadi perusahaan supplier energi biomassa / Energi terbaharukan yang terpercaya dengan selalu menghadirkan kualitas energi biomassa terbaik bagi para mitra (pengguna energi biomassa di Indonesia & Dunia)"
+            },
+            "misi":{
+                "title":"Misi",
+                "body1": "Mengembangkan energi baru yang bersal dari sumber yang berkelanjutan di Indonesia sebagai upaya dalam pengurangan gas emisi (Co2)",
+                "body2":"Memperkuat infrastruktur dan jaringan usaha yang baik.",
+                "body3":"Membentuk system kerja yang efektif dan efisien.",
+                "body4":"Mengembangkan jaringan kerja dengan berbagai pihak, dengan prinsip saling menguntungkan."
+            }
+        },
+        "companyValue":{
+            "title":"Nilai-Nilai Perusahaan",
+            "title1":"Kepercayaan",
+            "title2":"Professinalisme",
+            "title3":"Keberlanjutan",
+            "title4":"Efisiensi",
+            "body1":"Kami meyakini jika kepercayaan adalah nilai paling penting dalam bisnis kami",
+            "body2":"Kami memiliki standar untuk setiap produk dan layanan demi hasil yang terbaik.",
+            "body3":"Berangkat dari nilai-nilai keberlanjutan kami berawal, menjadi salah satu bagian dalam pemanfaatan limbah Pabrik Kelapa Sawit sebagai upaya dalam mewujudkan keberlanjutan lingkungan hidup",
+            "body4":"Kami selalu memperhitungkan seluruh biaya yang keluar dalam aktivitas bisnis kami dengan berpegang teguh pada nilai – nilai efisiensi demi mewujudkan keuntungan dan kepuasan yang maksimal untuk mitra bisnis kami."
+        },
+        "efisiensi":{
+            "title1":"Efisiensi",
+            "title2":"Database",
+            "body1":"Efisiensi menjadi kunci bagaimana bisnis ini dapat menghasilkan keuntungan bagi mitra kami. Berangkat dari pengalaman kami menjadi perusahaan supplier energi biomassa limbah cangkang kelapa sawit ini, menggunakan pola Plant to Port/Container Yard yakni dengan mengarahkan unit/truk pengangkut dari pabrik langsung ke pelabuhan/kontainer tanpa menumpuknya terlebih dulu di stockpile (gudang penumpukan) terbukti efektif dapat memangkas biaya operasional dan meningkatkan keuntungan bagi mitra kami (karena biaya operasional akan lebih murah).",
+            "body2":"Pengalaman telah membawa kami bekerja sama dengan sebagian besar Pabrik Kelapa Sawit yang ada di Kalimantan Tengah, Kalimantan Selatan hingga Kalimantan Barat. Pengetahuan kami tentang profile Pabrik Kelapa Sawit dengan berbagai jenis – jenis cangkang kelapa sawit yang dihasilkan akan sangat membantu kami sehingga, membuat kami percaya diri bahwa kami memiliki kemampuan untuk dapat memenuhi kebutuhan serta ekspektasi mitra pengguna biomassa kami baik secara kualitas maupun kuantitas."
+        },
+        "history":{
+            "title":"History",
+            "title1":"Berdirinya Perusahaan",
+            "body1":"PKS didirikan di sekitar Kotawaringin Barat, Kalimantan Tengah. Mulai menjelajah Pabrik Kelapa Sawit (PKS) di Kalimantan Tengah.",
+            "title2":"Masuk Kalimantan Timur",
+            "body2":"Menjalin hubungan bisnis dengan lebih dari 40 POM termasuk Pusat, Timur, Kalimantan Barat & Selatan.",
+            "title3":"Memasuki pasar internasional(Ekspor)",
+            "body3":"Bekerja sama dengan PT. Garuda Biomass Indonesia (GBI), mulai memasok PKS ke pelanggan di luar negeri (Thailand & Jepang)"
+        },
+        "founder":{"title":"Founder"},
+        "license":{
+            "title":"Lisensi"
+        }
+    },
+    "footer":{
+        "address1":"Jl. Iskandar No.70, Madurejo, Kec. Arut Sel., Kabupaten Kotawaringin Barat, Kalimantan Tengah 74112",
+        "address2":"Voza Tower Lt 20 Jl. Mayjen HR. Muhammad No.31, Sonokwijenan, Kec. Sukomanunggal, Kota SBY, Jawa Timur 60189",
+        "phone":"+628563007251",
+        "email":"admin@canbiomass.co.id"
+    }
+}

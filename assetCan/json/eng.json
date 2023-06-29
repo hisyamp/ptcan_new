@@ -1,0 +1,100 @@
+{
+    "index":{
+        "navbar":{
+            "home":"Home",
+            "product":"Product",
+            "order":"Order",
+            "aboutus":"About Us"
+        },
+        "hero":{
+            "title":"Palmsell",
+            "body1":"Top trading place for palm shells in Indonesia",
+            "body2":"Trustworthy, reliable, with the best quality of palm shells, competitive prices",
+            "btn": "Order"
+        },
+        "whatis":{
+            "title":"What Is <br> Palm Shell ?",
+            "subtitle":"Palmsell",
+            "body":"is the remaining shell fragments after the palm kernels are removed and crushed in the palm oil mill. Palm shell is a fibrous material and easy to process. Compared to other biomass residue industries, palm shells are a good quality fuel with a uniform size, easy to process and the burning process is fast due to low humidity levels."
+            },
+        "whatfor":{
+            "title":"Uses of <br>Palm Shells",
+            "subtitle":"Palmsell",
+            "body":"Palm shells can be used as charcoal briquettes because they are environmentally friendly. Palm shells have minimal ash content, which is 2-3% and do not emit odors. On the other hand, palm shells are also durable when used in the combustion process. In addition, palm shells can also be used as a mixture of livestock feed and a mixture of road paving materials"
+        },
+        "whyus":{
+            "title": "Why Us?",
+            "subtitle": "Quality Consistency &<br>Best Quantity",
+            "body1":"Experience has brought us to work with most of the Palm Oil Mills in Central Kalimantan, South Kalimantan to West Kalimantan. Our knowledge of the profile of the Palm Oil Mill with the various types of palm shells produced will really help us so that we are confident that we have the ability to be able to meet the needs and expectations of our biomass user partners both in quality and quantity.",
+            "body2":"The table above is the results of the LAB (Sucofindo) from Palm Shell Waste that we usually present, with the following conclusions; - Total Moisture / Moisture Content By containing a moisture content (moisture in Analysis) of 17.82% (Air Dried Basis) at least makes the palm shells very suitable for fuel. Because, basically, the less the intensity of the water content in something, the easier it is to burn. In addition, the condition of this water content also determines the quality (durability and strength). - Ash Content It has a low ash content, which is approximately 2-3%, making it very suitable to replace coal. By using palm shells as charcoal fuel, at least it is very helpful in preserving limited natural resources. In addition, using palm oil shells further empowers renewable resource stocks. - Volatile Matter / Evaporation Level The intensity of the evaporation rate is quite high, (volatile matter), which is around 69-80%. If so, this means that using palm shells will be far more friendly to the surrounding environment. This is because the oil palm shells contain relatively low levels of carbon sulfur, thereby reducing air pollution, as the original purpose of using biomass energy was. It is different when an industry uses coal or natural resource fuels which will cause high pollution"
+        },
+        "letsorder":{
+            "title":"Start Your Order",
+            "btn":"Order"
+        }
+    },
+    "about":{
+        "navbar":{
+            "home":"Home",
+            "aboutus":"About Us",
+            "license":"Licences",
+            "history":"History",
+            "order":"Order"
+        },
+        "aboutCompany":{
+            "title":"Company <br> Pofile",
+            "body1":"PT. CAKRAWALA ADIDAYA NUSANTARA (PT. CAN) is a company engaged in the business of trading (buying and selling) of palm oil waste including palm kernel shell (Palm Kernell Shell), fiber and other waste products. Especially for palm kernel shell (Palm Kernell Shell) until now PT. CAN has been recorded as having entered into purchasing contracts and partnering with approximately 20 different palm oil companies (PKS) with a purchasing capacity of up to 2,000 mt in several partner PKS.",
+            "body2":"PT. CAN with CV. Putra Mahodenk Kotawaringin (CV. PMK) has also become a permanent partner of PT. Garuda Biomass Indonesia (PT. GBI) as a supplier and exporter of palm kernel shells (Palm Kernell Shell) which has a direct relationship with end users in several destination countries such as Thailand, Japan and Taiwan. Thus, guarantees regarding quality assurance are no longer a problem that can disrupt business activities carried out by PT.CAN.",
+            "body3": "Apart from having a business engaged in the sale and purchase of palm oil waste products, PT. CAN with CV. PMK also has a business engaged in the field of transportation services (transporters). There are a total of 18 units of transportation with the Dump Truck type."
+        },
+        "visiMisi":{
+            "visi": {
+                "title":"Vision",
+                "body":"Become a trusted supplier of biomass energy / renewable energy by always presenting the best quality of biomass energy for partners (biomass energy users in Indonesia & the World)"
+            },
+            "misi":{
+                "title":"Mission",
+                "body1": "Developing new energy from sustainable sources in Indonesia as an effort to reduce emission gas (Co2)",
+                "body2":"Strengthen good infrastructure and business networks.",
+                "body3":"Establish an effective and efficient work system.",
+                "body4":"Develop a network with various parties, with the principle of mutual benefit."
+            }
+        },
+        "companyValue":{
+            "title":"Company <br>Value",
+            "title1":"Trust",
+            "title2":"Professionalism",
+            "title3":"Continuity",
+            "title4":"Efficiency",
+            "body1":"We believe that trust is the most important value in our business",
+            "body2":"We have standards for every product and service for the best results.",
+            "body3":"Start from our sustainability values, we started as a part of utilizing palm oil mill waste as an effort to realize environmental sustainability.",
+            "body4":"We always take into account all costs incurred in our business activities by adhering to the values of efficiency in order to realize maximum profit and satisfaction for our business partners."
+        },
+        "efisiensi":{
+            "title1":"Efficiency",
+            "body1":"Efficiency is the key to how this business can generate profits for our partners. Departing from our experience as a company supplying energy from palm shell waste biomass, using the Plant to Port/Container Yard pattern, namely by directing transport units/trucks from the factory directly to the port/container without stacking them first in the stockpile (stacking warehouse) has proven to be effective. cut operational costs and increase profits for our partners (because operational costs will be cheaper).",
+            "title2":"Database",
+            "body2":"Experience has brought us to work with most of the Palm Oil Mills in Central Kalimantan, South Kalimantan to West Kalimantan. Our knowledge of the profile of the Palm Oil Mill with the various types of palm shells produced will really help us so that we are confident that we have the ability to be able to meet the needs and expectations of our biomass user partners both in quality and quantity."
+        },
+        "history":{
+            "title":"History",
+            "title1":"Establishment of the Company",
+            "body1":"PKS was established around West Kotawaringin, Central Kalimantan. Start exploring the Palm Oil Mill (PKS) in Central Kalimantan.",
+            "title2":"Enter East Kalimantan",
+            "body2":"Established business relationships with more than 40 POMs including Central, East, West & South Kalimantan.",
+            "title3":"Entering the international market (Export)",
+            "body3":"In collaboration with PT. Garuda Biomass Indonesia (GBI), started supplying PKS to overseas customers (Thailand & Japan)"
+        },
+        "founder":{"title":"Founder"},
+        "license":{
+            "title":"Licences"
+        }
+    },
+    "footer":{
+        "address1":"Jl. Iskandar No.70, Madurejo, Kec. Arut Sel., Kabupaten Kotawaringin Barat, Kalimantan Tengah 74112",
+        "address2":"Voza Tower Lt 20 Jl. Mayjen HR. Muhammad No.31, Sonokwijenan, Kec. Sukomanunggal, Kota SBY, Jawa Timur 60189",
+        "phone":"+628563007251",
+        "email":"admin@canbiomass.co.id"
+    }
+}
