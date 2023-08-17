@@ -9162,7 +9162,7 @@ body.compensate-for-scrollbar {
   padding: 30px 80px 30px 80px;
 }
 
-.custom-container{
+.custom-timeline-container{
   width: 1200px;
   margin: auto;
 }
@@ -9250,4 +9250,19 @@ ul:nth-child(1){
   background: url(../assetCan/frompdf/image-007.jpg) no-repeat center;
   background-size: cover;
   z-index: 1;
+}
+
+.custom-container-our-product{
+  /* display: inline-block; */
+}
+
+.img-product{
+  width: 30%;
+  display: inline-block;
+}
+
+.img-product-item{
+  border-radius: 10;
+  border-bottom-right-radius: 25px;
+  border-top-left-radius: 25px;
 }
