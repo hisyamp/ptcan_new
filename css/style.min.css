@@ -414,6 +414,15 @@ hr {
 .title-one h2.main-font.color-blue {
   color: #005025;
 }
+.title-one h2.sec-font {
+  font-family: "gordita";
+  font-size: 35px;
+  color: #000;
+  line-height: 1.333em;
+}
+.title-one h2.sec-font.color-blue {
+  color: #005025;
+}
 .title-one span img {
   top: -28px;
   right: -112px;
@@ -9126,4 +9135,119 @@ body.compensate-for-scrollbar {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+/* custom */
+.c-font {
+  font-family: "gordita";
+  color: #000;
+  line-height: 1.333em;
+  color: #005025;
+}
+
+.c-h2 {
+  font-family: "gordita";
+  font-size: 40px;
+  color: #fff;
+  line-height: 1.333em;
+
+}
+
+.title-one p{
+  justify-content: center; 
+  color: #005025;
+}
+
+.custom-container-logo{
+  padding: 30px 80px 30px 80px;
+}
+
+.custom-container{
+  width: 1200px;
+  margin: auto;
+}
+.custom-timeline{
+  counter-reset: test 0;
+  position: relative;
+}
+.custom-timeline li{
+  list-style: none;
+  float: left;
+  width: 25%;
+  position: relative;
+  text-align: center;
+  text-transform: uppercase;
+}
+ul:nth-child(1){
+  color: #4caf50;
+}
+.custom-timeline li:before{
+  counter-increment: test;
+  content: counter(test);
+  width: 50px;
+  height: 50px;
+  border: 3px solid #005025;
+  border-radius: 50%;
+  display: block;
+  text-align: center;
+  line-height: 50px;
+  margin: 0 auto 10px auto;
+  background: #005025;
+  color: #fff;
+  transition: all ease-in-out .3s;
+  cursor: pointer;
+}
+.custom-timeline li:after{
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 2px;
+  background-color: grey;
+  top: 25px;
+  left: -50%;
+  z-index: -999;
+  transition: all ease-in-out .3s;
+}
+.custom-timeline li:first-child:after{
+  content: none;
+}
+.custom-timeline li.active-tl{
+  color: #555555;
+}
+.custom-timeline li.active-tl:before{
+  background: #4caf50;
+  color: #F1F1F1;
+}
+.custom-timeline li.active-tl + li:after{
+  background: #4caf50;
+}
+
+.custom-fancy-banner-five.bg-image:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: rgba(255, 255, 255, 0.6);;
+  z-index: -1;
+}
+.custom-fancy-banner-five.bg-image:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 70%;
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0.6) 0%,
+    rgba(255, 255, 255, 0) 93.25%
+  );
+  z-index: -1;
+}
+.custom-fancy-banner-five.bg-image {
+  background: url(../assetCan/frompdf/image-007.jpg) no-repeat center;
+  background-size: cover;
+  z-index: 1;
 }
