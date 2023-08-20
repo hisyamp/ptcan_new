@@ -9152,6 +9152,12 @@ body.compensate-for-scrollbar {
   line-height: 1.333em;
 
 }
+.sec-font {
+  font-family: "gordita";
+  font-size: 35px;
+  color: #000;
+  line-height: 1.333em;
+}
 
 .title-one p{
   justify-content: center; 
@@ -9163,7 +9169,7 @@ body.compensate-for-scrollbar {
 }
 
 .custom-timeline-container{
-  width: 1200px;
+  width: 100%;
   margin: auto;
 }
 .custom-timeline{
@@ -9265,4 +9271,67 @@ ul:nth-child(1){
   border-radius: 10;
   border-bottom-right-radius: 25px;
   border-top-left-radius: 25px;
+}
+
+.img-product-item2{
+  border-radius: 10;
+  border-bottom-right-radius: 25px;
+  border-top-left-radius: 25px;
+  height: 100%;
+}
+
+.custom-container-produk{
+  margin:10px;
+  padding:60px;
+  background-color: #fff;
+  border-radius: 18px;
+}
+
+.fancy-banner-three .bg-wrapper-album {
+  background: url(../assetCan/slider-img/8.jpg) no-repeat center;
+  background-size: cover;
+  z-index: 1;
+}
+.fancy-banner-three .bg-wrapper-album::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 38%;
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0) 21.24%,
+    rgba(0, 0, 0, 0.65) 90.88%
+  );
+  opacity: 0.5;
+  z-index: -1;
+}
+.fancy-banner-three .bg-wrapper-album::before {
+  content: "";
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 70%;
+  background: linear-gradient(
+    269.96deg,
+    rgba(0, 0, 0, 0.74) 1.09%,
+    rgba(0, 0, 0, 0.5) 58.13%,
+    rgba(0, 0, 0, 0) 99.96%
+  );
+  z-index: -1;
+}
+
+.album-img1{
+  margin: auto;
+  width: 100%;
+  /* max-height: 100px; */
+}
+
+.album-img2{
+  margin: auto;
+  width: 100%;
+  max-height: 200px;
+  overflow: hidden;
 }
