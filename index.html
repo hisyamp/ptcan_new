@@ -21,6 +21,10 @@
 	<!-- iOS Safari -->
 	<meta name="apple-mobile-web-app-status-bar-style" content="#244034">
 	<title>PT. Cakrawala Adidaya Nusantara</title>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
+
 	<!-- Favicon -->
 	<link rel="icon" type="image/png" sizes="56x56" href="images/fav-icon/icon.png">
 	<!-- Bootstrap CSS -->
@@ -68,9 +72,9 @@
 				Theme Main Menu
 		============================================== 
 		-->
-		<header class="theme-main-menu menu-overlay menu-style-two sticky-menu wow fadeInDown">
+		<header class="theme-main-menu menu-overlay menu-style-two sticky-menu bg-light">
 			<div class="inner-content position-relative">
-				<div class="top-header">
+				<div class="top-header wow fadeInDown">
 					<div class="d-flex align-items-center justify-content-between">
 						<div class="logo order-lg-0">
 							<a href="index.html" class="d-flex align-items-center">
@@ -98,23 +102,23 @@
 													src="images/logo/logo_06.png" alt="" width="100"></a></div>
 									</li>
 									<li class="nav-item dropdown">
-										<a class="nav-link dropdown-toggle" href="#" role="button">Home
+										<a class="nav-link dropdown-toggle" href="#" role="button" style="color: #005025;">Home
 										</a>
 
 									</li>
 									<li class="nav-item dropdown">
-										<a class="nav-link dropdown-toggle" href="#produk" role="button">Produk
+										<a class="nav-link dropdown-toggle" href="#produk" role="button" style="color: #005025;">Produk
 										</a>
 
 									</li>
 									<li class="nav-item dropdown">
-										<a class="nav-link dropdown-toggle" href="#ujiklinis" role="button"
+										<a class="nav-link dropdown-toggle" href="#ujiklinis" role="button" style="color: #005025;"
 											>Uji Klinis
 										</a>
 
 									</li>
 									<li class="nav-item dropdown mega-dropdown-sm">
-										<a class="nav-link dropdown-toggle" href="container.html" role="button"
+										<a class="nav-link dropdown-toggle" href="container.html" role="button" style="color: #005025;"
 											>Container
 										</a>
 										<ul class="dropdown-menu">
@@ -167,11 +171,11 @@
 										</ul>
 									</li>
 									<li class="nav-item dropdown">
-										<a class="nav-link dropdown-toggle" href="about-us.html" role="button">About Us
+										<a class="nav-link dropdown-toggle" href="about-us.html" role="button" style="color: #005025;">About Us
 										</a>
 									</li>
 									<li class="nav-item">
-										<a class="nav-link" href="contact.html" role="button">Contact</a>
+										<a class="nav-link" href="contact.html" role="button" style="color: #005025;">Contact</a>
 									</li>
 								</ul>
 							</div>
@@ -187,24 +191,31 @@
 			Hero Banner
 		============================================== 
 		-->
-		<div class="hero-banner-six position-relative pt-170 lg-pt-150 pb-60 lg-pb-40">
-			<div class="container">
-				<div class="position-relative">
-					<div class="row">
-						<div class="col-xxl-12 col-xl-12 col-lg-12 m-auto text-start wow fadeInDown">
-							<p class="text-sm text-white mt-25 lg-mb-40 wow fadeInUp" data-wow-delay="0.2s">Salah Satu
-								Perusahaan Cangkang Sawit Terbesar di Indonesia</p>
-							<h1 class="wow fadeInUp" data-wow-delay="0.4s"><span class="text-info">Jaga bumi
-									kita</span>, dengan menggunakan bahan ramah lingkungan </h1>
+		<div class="hero-banner-six position-relative mt-100">
+			<div class="custom-container">
+				<div class="position-relative" style="height: 700px;">
+					<div class="row g-0 " style="margin-right:-100px;">
+						<div class="col-sm-1"></div>
+						<div class="col-sm-4" style="height: 700px; transform: skew(-10deg);">
+
+							<div class="pl-5 wow slideInLeft" style="margin-top: 25%;
+							justify-content: center;
+							height: 50%;
+							padding: 10px;" data-wow-duration="1s" data-wow-delay="0.1s">
+								<h1 class="custom-herotext1">GREEN ENERGY</h1>
+								<h1 class="custom-herotext2">GREENER <br>FUTURE</h1>
+								<h1 class="custom-herotext3">All We CAN Green</h1>
+							</div>
 						</div>
+						<div class="col-sm-2 my-auto wow fadeInLeft"  data-wow-delay="0.1s"> <img src="assetCan/frompdf/image-000.jpg" alt="" style="height: 700px; transform: skew(-10deg); object-fit: cover; margin: 0;"></div>
+						<div class="col-sm-2 my-auto wow fadeInLeft"  data-wow-delay="0.2s"> <img src="assetCan/produk/peletkayu.jpg" alt="" style="height: 700px; transform: skew(-10deg); object-fit: cover; margin: 0;"></div>
+						<div class="col-sm-3 my-auto wow fadeInLeft"  data-wow-delay="0.3s"> <img src="assetCan/produk/bungkilks.jpg" alt="" style="height: 700px; transform: skew(-10deg); object-fit: cover; margin-right: -2000px;"></div>
 					</div>
 				</div>
 			</div>
 			<div id="banner-six-carousel" class="carousel slide" data-bs-ride="carousel">
 				<div class="carousel-inner w-100 h-100">
-					<div class="carousel-item active parallax" style="background-image: url(assetCan/slider-img/1.jpg)">
-					</div>
-					<div class="carousel-item parallax" style="background-image: url(assetCan/slider-img/2.jpg)">
+					<div class="carousel-item active parallax bg-success" style="background-color: #005025">
 					</div>
 				</div>
 			</div>
@@ -216,7 +227,7 @@
 			Category Section Three
 		============================================== 
 		-->
-		<section class="category-section-three pt-130">
+		<section class="category-section-three pt-80">
 			<div class="container">
 				<div class="position-relative wow fadeInUp">
 					<div class="title-one mb-60 lg-mb-40">
@@ -267,7 +278,7 @@
 			Fancy Banner Five
 		=====================================================
 		-->
-		<section class="fancy-banner-five bg-image position-relative pt-100 lg-pt-60">
+		<section class="fancy-banner-five bg-image position-relative pt-80">
 			<div class="container">
 				<div class="position-relative">
 					<div class="row align-items-center">
@@ -566,103 +577,7 @@
 			Fancy Banner Three
 		=====================================================
 		-->
-		<section class="fancy-banner-three pt-130 lg-mt-100">
-			<div class="bg-wrapper-album pt-85 lg-pt-50 pb-80 lg-pb-50 position-relative wow fadeInUp parallax">
-				<div class="container">
-					<div class="row">
-						<div class="col-xxl-5 col-xl-6 col-lg-6 ms-auto">
-							<div class="text-wrapper p0 mb-50 md-mb-20 wow fadeInRight">
-								<a class="fancybox rounded-circle video-icon tran3s d-flex align-items-center justify-content-center"
-									data-fancybox="" href="https://www.youtube.com/embed/rPysfjP_NWg">
-									<i class="bi bi-play-fill"></i>
-								</a>
-								<div class="title-one mt-25 mb-25 lg-mb-20">
-									<h2 class="text-white main-font">Dimulai dari anda</span></h2>
-								</div>
-								<p class="text-white text-md">Merawat lingkungan hari ini untuk kehidupan yang lebih
-									baik esok.</p>
-							</div>
-						</div>
-					</div>
-
-					<div class="row gx-xl-5 justify-content-between">
-						<div class="col-lg-4 d-flex">
-							<div class="card-style-nine w-100 d-flex mt-20 wow fadeInUp">
-								<div class="icon rounded-circle d-flex align-items-center justify-content-center ">
-									<img src="images/lazy.svg" data-src="assetCan/icon/renewable-energy.png" alt=""
-										class="lazy-img">
-								</div>
-								<div class="ps-4 text d-flex flex-column">
-									<div class="text-lg mb-10">Ramah lingkungan</div>
-									<!-- <a href="#" class="fw-500 text-uppercase">Open Acount</a> -->
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-4 d-flex">
-							<div class="card-style-nine w-100 d-flex mt-20 wow fadeInUp" data-wow-delay="0.2s">
-								<div class="icon rounded-circle d-flex align-items-center justify-content-center"><img
-										src="images/lazy.svg" data-src="assetCan/icon/fire.png" alt="" class="lazy-img">
-								</div>
-								<div class="ps-4 text d-flex flex-column">
-									<div class="text-lg mb-10">Pembakaran lebih efisien</div>
-									<!-- <a href="#" class="fw-500 text-uppercase">Apply job or hire</a> -->
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-4 d-flex">
-							<div class="card-style-nine w-100 d-flex mt-20 wow fadeInUp" data-wow-delay="0.35s">
-								<div class="icon rounded-circle d-flex align-items-center justify-content-center"><img
-										src="images/lazy.svg" data-src="assetCan/icon/green-earth.png" alt=""
-										class="lazy-img"></div>
-								<div class="ps-4 text d-flex flex-column">
-									<div class="text-lg mb-10">Kadar abu yang minim</div>
-									<!-- <a href="#" class="fw-500 text-uppercase">Payment Method</a> -->
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<!-- /.bg-wrapper -->
-		</section>
-		<!-- /.fancy-banner-three -->
 		
-		<!-- 
-		=============================================
-			Text Feature Two
-		============================================== 
-		-->
-		<section class="text-feature-two position-relative pt-130 pb-130 xl-pt-120 lg-pt-80">
-			<div class="container">
-				<div class="row align-items-center manfaat">
-					<div class="col-lg-7 order-lg-first ">
-						<div
-							class="rounded-circle position-relative d-flex align-items-center justify-content-center ms-lg-5 wow fadeInLeft">
-							<img class="rounded" src="assetCan/slider-img/11.jpg" alt="" srcset="">
-						</div>
-					</div>
-					<div class="col-lg-5 order-lg-last">
-						<div class="wow fadeInRight">
-							<div class="title-one">
-								<div class="sub-title">Cangkang Sawit</div>
-								<h3>Manfaat cangkang sawit</h3>
-							</div>
-							<p class="text-lg mt-40 lg-mt-20 mb-40 lg-mb-30">Cangkang sawit bisa digunakan sebagai
-								briket arang dikarenakan ramah lingkungan.</p>
-							<a href="about-us.html" class="btn-nine tran3s d-flex align-items-center">
-								<span class="fw-500 me-2">Learn More</span>
-								<i class="bi bi-arrow-right"></i>
-							</a>
-						</div>
-					</div>
-
-				</div>
-			</div>
-		</section>
-		<!-- /.text-feature-two -->
-
-
-
 		<!--
 		=====================================================
 			Fancy Banner Five

@@ -1,5 +1,7 @@
 @import "https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600;700&amp;display=swap";
 @import "../fonts/gordita/stylesheet.css";
+@import "../fonts/Anton/stylesheet.css";
+@import "../fonts/brush-script-mt/stylesheet.css";
 @import "../fonts/bootstrap-icons-1.10.2/font.css";
 ::-webkit-scrollbar {
   width: 5px;
@@ -2620,7 +2622,7 @@ iframe {
 }
 .hero-banner-six {
   background-color: #212121;
-  min-height: 100vh;
+  min-height: 700px;
   z-index: 5;
 }
 .hero-banner-six h1,h2,h3 {
@@ -9334,4 +9336,21 @@ ul:nth-child(1){
   width: 100%;
   max-height: 200px;
   overflow: hidden;
+}
+
+.custom-herotext1{
+  font-size: 26px;
+  /* font-style: italic; */
+  font-family: 'anton' !important;;
+}
+
+.custom-herotext2{
+  font-size: 121px;
+  /* font-style: italic; */
+  font-family: 'anton' !important;;
+}
+.custom-herotext3{
+  font-size: 61px;
+  /* font-style: italic; */
+  font-family: 'bs' !important;;
 }
